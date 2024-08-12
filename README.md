@@ -1,5 +1,5 @@
-# phyllis-portfolio
+# Shreeya Lingam's Portfolio
 
-welcome to my portfolio!
+Welcome to my portfolio!
 
-[Click Here for my portfolio!](https://phyllisuw.github.io/phyllis-portfolio/)
+[Click Here for my portfolio!]()
