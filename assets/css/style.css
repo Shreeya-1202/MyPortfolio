@@ -373,7 +373,7 @@ h2 {
 }
 
 #general .social-links a:hover {
-  color: #aa90bb;
+  color: #ff6666;
 }
 
 @media screen and (max-width: 992px) {
@@ -474,7 +474,7 @@ section {
 .about .content ul i {
   font-size: 16px;
   margin-right: 5px;
-  color: #9e7ece;
+  color: #ffcccc;
   line-height: 0;
 }
 
@@ -529,7 +529,7 @@ section {
   width: 1px;
   height: 10px;
   transition: 0.9s;
-  background-color: #8282c2;
+  background-color: #ff8080;
 }
 
 /*--------------------------------------------------------------
@@ -590,7 +590,7 @@ section {
   left: -9px;
   top: 0;
   background: #fff;
-  border: 2px solid #9e7ece;
+  border: 2px solid #ff9999;
 }
 
 
