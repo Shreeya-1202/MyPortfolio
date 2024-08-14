@@ -656,14 +656,14 @@ section {
 
 
 .portfolio .icon-box.iconbox-yellow {
-  background: linear-gradient(rgba(252, 247, 247, 0.763), rgba(255, 255, 255, 0.856)), url("../img/project4.png");
+  background: linear-gradient(rgba(252, 247, 247, 0.763), rgba(255, 255, 255, 0.856)), url("../img/SHVRR.png");
   background-size: cover;
   position: relative;
 }
 
 
 .portfolio .icon-box.iconbox-pink {
-  background: linear-gradient(rgba(252, 247, 247, 0.763), rgba(255, 255, 255, 0.856)), url("../img/project3.png");
+  background: linear-gradient(rgba(252, 247, 247, 0.763), rgba(255, 255, 255, 0.856)), url("../img/MRI.Scan.png");
   background-size: cover;
   position: relative;
 }
