@@ -686,7 +686,7 @@ section {
 }
 
 .portfolio .icon-box.iconbox-teal {
-  background: linear-gradient(rgba(252, 247, 247, 0.763), rgba(255, 255, 255, 0.856)), url("../img/MRI.Scan.png");
+  background: linear-gradient(rgba(252, 247, 247, 0.763), rgba(255, 255, 255, 0.856)), url("../img/BCS.png");
   background-size: cover;
   position: relative;
 }
