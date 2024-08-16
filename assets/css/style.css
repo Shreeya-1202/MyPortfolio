@@ -656,7 +656,7 @@ section {
 
 
 .portfolio .icon-box.iconbox-yellow {
-  background: linear-gradient(rgba(252, 247, 247, 0.763), rgba(255, 255, 255, 0.856)), url("../img/SHVRR.png");
+  background: linear-gradient(rgba(252, 247, 247, 0.763), rgba(255, 255, 255, 0.856)), url("../img/SpectralAnalysis.png");
   background-size: cover;
   position: relative;
 }
@@ -680,7 +680,7 @@ section {
 
 
 .portfolio .icon-box.iconbox-blue {
-  background: linear-gradient(rgba(252, 247, 247, 0.763), rgba(255, 255, 255, 0.856)), url("../img/SHVRR.png");
+  background: linear-gradient(rgba(252, 247, 247, 0.763), rgba(255, 255, 255, 0.856)), url("../img/TissueEng.png");
   background-size: cover;
   position: relative;
 }
@@ -692,7 +692,7 @@ section {
 }
 
 .portfolio .icon-box.iconbox-orange {
-  background: linear-gradient(rgba(252, 247, 247, 0.763), rgba(255, 255, 255, 0.856)), url("../img/project2.png");
+  background: linear-gradient(rgba(252, 247, 247, 0.763), rgba(255, 255, 255, 0.856)), url("../img/ElbowFlexion.png");
   background-size: cover;
   position: relative;
 }
