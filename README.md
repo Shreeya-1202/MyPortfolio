@@ -2,4 +2,4 @@
 
 Welcome to my portfolio!
 
-[Click Here for my portfolio!]('https://shreeya-1202.github.io/MyPortfolio/#')
+[Click Here for my portfolio!](https://shreeya-1202.github.io/MyPortfolio/#)
